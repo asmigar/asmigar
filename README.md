@@ -1,2 +1,2 @@
 # asmigar
-Github Page for asmigar.com
+Github Page for https://asmigar.com
