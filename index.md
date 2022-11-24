@@ -3,16 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-whatsapp_text: Hey Sagar. I just saw your website. Let's talk.
 ---
-![]({{ "/assets/sagar.jpg" | relative_url }}){:height="300px" width="px" align="right" border="3px"}
+Ruko Zara, Sabar Karo!!
 
----
-* Website Building
-* Website Hosting
-* Private Tuition For Elementary Students
-* Travelling
-* Photography
 
----
-READ MY BLOGS [HERE](https://sagarmaurya.medium.com/){:target="_blank"}
