@@ -2,5 +2,6 @@ theme: minima
 title: ASMIGAR
 description: Man Kiya toh Kar Diya
 url: "https://asmigar.com"
-# personal links
+exclude:
+  - README.md
 
