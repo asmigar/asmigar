@@ -4,4 +4,5 @@ description: Work In Progress
 url: "https://asmigar.com"
 exclude:
   - README.md
+  - vendor/
 
