@@ -18,6 +18,10 @@ feature_row:
     url: "https://dhaansudevops.com/register"
     btn_label: "Register"
     btn_class: "btn--inverse"
+  - image_path: /assets/delivery.jpg
+    alt: "placeholder image 1"
+    title: "Robust Delivery"
+    excerpt: "Single button click deployments and sometimes no button clicks. Making sure no code goes to production without thorough testing and sign off from the watchdogs."
 ---
 
 {% include feature_row %}
