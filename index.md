@@ -21,7 +21,7 @@ feature_row:
   - image_path: /assets/delivery.jpg
     alt: "placeholder image 1"
     title: "Robust Delivery"
-    excerpt: "Single button click deployments and sometimes no button clicks. Making sure no code goes to production without thorough testing and sign off from the watchdogs."
+    excerpt: "Single-click deployments and sometimes no clicks. Making sure no code goes to production without thorough testing and sign off from the watchdogs."
 ---
 
 {% include feature_row %}
